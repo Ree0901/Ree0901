@@ -3,7 +3,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="200" height="200" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ree0901&label=Profile%20views&color=0e75b6&style=flat" alt="ree0901" /> </p>
+<p>
+    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Abishnoi69/count.svg" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ree0901" alt="ree0901" /></a> </p>
 
