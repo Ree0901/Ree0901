@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/df/2f/e1/df2fe1c94284383ebc90771a84e148be.jpg)
 <h1 align="center">Hi 👋, I'm Sunny Kumar Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer From India</h3>
 <img align="right" alt="Coding" width="200" height="200" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif">
 
 <p>
